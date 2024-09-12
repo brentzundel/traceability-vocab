@@ -19,5 +19,9 @@
     "lerna": "^6.6.2",
     "swagger-cli": "^4.0.4",
     "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "node": "^22.8.0",
+    "semver": "^7.6.3"
   }
 }
